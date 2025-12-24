@@ -38,4 +38,7 @@ This Python project detects a specific target image in a video using OpenCV’s 
  - This video is gained from a Kaggle platform Link: https://www.kaggle.com/datasets/ziya07/detect-emotions-of-your-favorite-toons
  - And all the Target.jpg data is a screenshot from the Tom and Jerry MP4 Video.
 
+# Limitation
+- Only able to detect the target in the video. If we use a similar target that we get from the internet might not be able to detect.
+- Can't use a complex image as the target to capture from the video.
  
