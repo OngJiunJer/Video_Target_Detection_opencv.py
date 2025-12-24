@@ -33,5 +33,9 @@ This Python project detects a specific target image in a video using OpenCV’s 
   - w → width of the target (from template image)
   - h → height of the target (from template image)
   - float(max_val) → the confidence score of the template match (how similar the detected region is to the target)
+ 
+ # Data: Tom and Jerry MP4 Video & Target.jpg
+ - This video is gained from a Kaggle platform Link: https://www.kaggle.com/datasets/ziya07/detect-emotions-of-your-favorite-toons
+ - And all the Target.jpg data is a screenshot from the Tom and Jerry MP4 Video.
 
  
